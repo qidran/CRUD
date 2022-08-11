@@ -73,7 +73,7 @@ export class CreateComponent implements OnInit {
       });
     }else
     {
-        this.errormsg = 'all field is required';
+        this.errormsg = 'all field is updpated';
     }
   }
 
